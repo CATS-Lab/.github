@@ -41,16 +41,15 @@
 ![VScode](https://img.shields.io/badge/-vscode-333333?style=flat&logo=VisualStudioCode&logoColor=#007ACC)
 
 ### Open source Project
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
+- [Autonomous Vehicle Development environment](https://github.com/JoeyBling/hexo-filter-image)
+  -Installation guide
+- [Connected and Automated Vehicle Sensing](https://github.com/JoeyBling/bootplus)
+  - [GPS driver for Autoware](https://github.com/CATS-Lab/GPS)
+- [Connected and Automated Vehicle Control](https://github.com/JoeyBling/hexo-theme-yilia-plus)
+- [Modular Vehciel](https://github.com/JoeyBling/yilia-plus-demo)
+- [CARMA](https://github.com/JoeyBling/hexo-filter-image)
+- [VECOTR](https://github.com/JoeyBling/hexo-filter-image)
+
 (updates later with links)
 
 ⭐️ From [JoeyBling](https://github.com/JoeyBling)
