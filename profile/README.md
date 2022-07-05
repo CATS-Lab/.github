@@ -42,7 +42,7 @@
 
 ### Open source Project
 - [Autonomous Vehicle Development environment](https://github.com/JoeyBling/hexo-filter-image)
-  -Installation guide
+  - Installation guide
 - [Connected and Automated Vehicle Sensing](https://github.com/JoeyBling/bootplus)
   - [GPS driver for Autoware](https://github.com/CATS-Lab/GPS)
 - [Connected and Automated Vehicle Control](https://github.com/JoeyBling/hexo-theme-yilia-plus)
