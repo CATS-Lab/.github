@@ -45,10 +45,17 @@
   - [Installation guide](https://github.com/CATS-Lab/Connected_Autonomous_Vehicle_Installation)
     - Sensing
     - [GPS driver for Autoware](https://github.com/CATS-Lab/GPS)
-- [Connected and Automated Vehicle Control](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [Modular Vehciel](https://github.com/JoeyBling/yilia-plus-demo)
-- [CARMA](https://github.com/JoeyBling/hexo-filter-image)
-- [VECOTR](https://github.com/JoeyBling/hexo-filter-image)
+- [AV Control](https://github.com/JoeyBling/hexo-theme-yilia-plus)
+- Filed experiment data
+  - [ACC-data](https://github.com/CATS-Lab/CATS-Lab-ACC-data)
+  - [AV-platooning](https://github.com/CATS-Lab/AV-platooning-data)
+  - [AV-energy-consumption data](https://github.com/CATS-Lab/AV-Energy-Consumption)
+  - [HV-follow-AV](https://github.com/CATS-Lab/HV-Follow-AV-Experiment)
+  - [AV-lane-change](https://github.com/CATS-Lab/AV-Lane-Change-Experiment)
+  - [HISTORIC](https://github.com/CATS-Lab/HISTORIC-data)
+- [Modular Vehciel]
+- [CARMA]
+- [VECOTR](https://github.com/CATS-Lab/HIGH-Sim)
 
 (updates later with links)
 
