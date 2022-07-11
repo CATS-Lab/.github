@@ -59,8 +59,6 @@
 
 (updates later with links)
 
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
-
 
 <!--
 
