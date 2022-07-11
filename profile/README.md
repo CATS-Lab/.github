@@ -57,7 +57,6 @@
 - [CARMA]
 - [VECOTR](https://github.com/CATS-Lab/HIGH-Sim)
 
-(updates later with links)
 
 
 <!--
