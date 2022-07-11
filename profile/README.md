@@ -17,8 +17,8 @@
 - 🌱 Located at University of Wisconsin-Madison
 - 🏎️ Houses two full scale connected autonomous vehicles (CAV)
 - 💬 Directed by professor Dr.Xiaopeng (Shaw) Li
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus) (updates later with links)
-
+- We share field experiment data 
+- ⭐ You may like [AV installtion guide](https://github.com/CATS-Lab/Connected_Autonomous_Vehicle_Installation) 、[AV platooning data](https://github.com/CATS-Lab/AV-platooning-data) 、or [Comercial ACC analysis data](https://github.com/CATS-Lab/CATS-Lab-ACC-data)
 ### 🛠 Tech Stack
 
 - 💻 &#160;
@@ -41,10 +41,10 @@
 ![VScode](https://img.shields.io/badge/-vscode-333333?style=flat&logo=VisualStudioCode&logoColor=#007ACC)
 
 ### Open source Project
-- [Autonomous Vehicle Development environment](https://github.com/JoeyBling/hexo-filter-image)
-  - Installation guide
-- [Connected and Automated Vehicle Sensing](https://github.com/JoeyBling/bootplus)
-  - [GPS driver for Autoware](https://github.com/CATS-Lab/GPS)
+- Autonomous Vehicle Development
+  - [Installation guide](https://github.com/CATS-Lab/Connected_Autonomous_Vehicle_Installation)
+    - Sensing
+    - [GPS driver for Autoware](https://github.com/CATS-Lab/GPS)
 - [Connected and Automated Vehicle Control](https://github.com/JoeyBling/hexo-theme-yilia-plus)
 - [Modular Vehciel](https://github.com/JoeyBling/yilia-plus-demo)
 - [CARMA](https://github.com/JoeyBling/hexo-filter-image)
