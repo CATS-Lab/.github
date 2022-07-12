@@ -53,11 +53,12 @@
   - [HV-follow-AV](https://github.com/CATS-Lab/HV-Follow-AV-Experiment)
   - [AV-lane-change](https://github.com/CATS-Lab/AV-Lane-Change-Experiment)
   - [HISTORIC](https://github.com/CATS-Lab/HISTORIC-data)
-- [Modular Vehciel]
-- [CARMA]
+- Modular Vehciel
+- CARMA
 - [VECOTR](https://github.com/CATS-Lab/HIGH-Sim)
 
-
+### Contributors
+University of Wisconsin Madison
 
 <!--
 
