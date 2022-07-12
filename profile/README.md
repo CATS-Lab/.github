@@ -40,7 +40,7 @@
 ![ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![VScode](https://img.shields.io/badge/-vscode-333333?style=flat&logo=VisualStudioCode&logoColor=#007ACC)
 
-### Open source Project
+### What's New!
 - Autonomous Vehicle Development
   - [Installation guide](https://github.com/CATS-Lab/Connected_Autonomous_Vehicle_Installation)
     - Sensing
