@@ -57,6 +57,8 @@
 - CARMA
 - [VECOTR](https://github.com/CATS-Lab/HIGH-Sim)
 
+[![Documentation Status](https://readthedocs.org/projects/cats-lab/badge/?version=latest)](https://cats-lab.readthedocs.io/en/latest/?badge=latest)
+You may also see our introduction on [CATS-lab](https://cats-lab.readthedocs.io/en/latest)
 ### Contributors
 University of Wisconsin Madison
 
