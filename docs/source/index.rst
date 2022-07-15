@@ -19,14 +19,14 @@ How to start
  
 Some helpful link
 ^^^^^^^^^^^^^^^^^^^^^^
- `CNN <http://cnn.com>`_
- `RST & Sphinx Cheat Sheet<https://sphinx-tutorial.readthedocs.io/cheatsheet/#sphinx-cheat-sheet>`_
+
+ `RST & Sphinx Cheat Sheet <https://sphinx-tutorial.readthedocs.io/cheatsheet/#sphinx-cheat-sheet>`_
 .. note::
    
    - Some rst phrase is not allowed in Sphinx structure
    - rst and sphinx are space sensitive
-   
-    
+
+
 
    
 
