@@ -5,6 +5,7 @@ Introduction
 --------------------
 Read the Docs is powered by Sphinx. You can import your project from
 a github repository. 
+
 - You will need to wirte your documents in rst (reStructuredText) and
 - Put it in the docs/ folder under you main folder, 
 I might get it ready for you  
@@ -20,6 +21,5 @@ How to start
 3. upload to the github repository 
  
 .. hint:: 
-   `RST & Sphinx Cheat Sheet<https://sphinx-tutorial.readthedocs.io/cheatsheet/#sphinx-cheat-sheet>`
-
+   `RST & Sphinx Cheat Sheet<https://sphinx-tutorial.readthedocs.io/cheatsheet/#sphinx-cheat-sheet>`_
 
