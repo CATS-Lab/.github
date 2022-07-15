@@ -7,12 +7,9 @@ Read the Docs is powered by Sphinx. You can import your project from
 a github repository. 
 
 - You will need to wirte your documents in rst (reStructuredText) and
-- Put it in the docs/ folder under you main folder, 
-I might get it ready for you  
+- Put it in the docs/ folder under you main folder, I might get it ready for you  
 - The root file is index.rst (required)
-- This documentation is *live* and hosted by the Read
-the Docs  server, when you make changes in your Markdown file,
-the doc will automatically change
+- This documentation is *live* and hosted by the Read the Docs  server, when you make changes in your Markdown file, the doc will automatically change
 
 How to start
 ---------------------
@@ -20,6 +17,7 @@ How to start
 2. Prepare your documentation in Markdown format (multiple pages are allowed)
 3. upload to the github repository 
  
+ `CNN <http://cnn.com>`_
 .. hint:: 
    `RST & Sphinx Cheat Sheet<https://sphinx-tutorial.readthedocs.io/cheatsheet/#sphinx-cheat-sheet>`_
 
