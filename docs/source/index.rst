@@ -11,8 +11,3 @@ and offers a *simple* and *intuitive* API.
 
 Contents
 --------
-
-.. toctree::
-
-   usage
-   api
