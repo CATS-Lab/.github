@@ -12,7 +12,7 @@
 <b>Follow us!</b>
 <br>
 ---
-<img align="right" alt="pnglogo" width="500px" src="[http://cee.eng.usf.edu/faculty/xiaopengli/Figures/Logos/CATS_2.png](https://uwmadison.app.box.com/file/1004128831724)" />
+<img align="right" alt="pnglogo" width="500px" src="https://usf.box.com/s/ia61sm8bl68lglcq7w0xyia00vtgqec2" />
 
 - 🌱 Located at University of Wisconsin-Madison
 - 🏎️ Houses two full scale connected autonomous vehicles (CAV)
