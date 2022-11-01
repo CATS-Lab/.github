@@ -12,7 +12,7 @@
 <b>Follow us!</b>
 <br>
 ---
-<img align="right" alt="pnglogo" width="500px" src="https://usf.box.com/s/ia61sm8bl68lglcq7w0xyia00vtgqec2" />
+<img align="right" alt="pnglogo" width="500px" src="https://github.com/CATS-Lab/.github/blob/main/CATS-Logo-UW%20Red.png" />
 
 - 🌱 Located at University of Wisconsin-Madison
 - 🏎️ Houses two full scale connected autonomous vehicles (CAV)
