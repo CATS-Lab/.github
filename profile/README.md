@@ -29,8 +29,6 @@
 
 
 - 🔧 &#160;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![VScode](https://img.shields.io/badge/-vscode-333333?style=flat&logo=VisualStudioCode&logoColor=#007ACC)
 
