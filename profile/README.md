@@ -56,7 +56,7 @@
 - Filed Experiment Data
   - [ACC Data](https://github.com/CATS-Lab/Filed-experiment-data-ACC_data)
   - [AV Platooning Data](https://github.com/CATS-Lab/Filed-experiment-data-AV_platooning_data)
-  - [AV Energy Consumption data](https://github.com/CATS-Lab/Filed-experiment-data-AV_energy_consumption)
+  - [AV Energy Consumption Data](https://github.com/CATS-Lab/Filed-experiment-data-AV_energy_consumption)
   - [HV Follow AV Experiment Data](https://github.com/CATS-Lab/Filed-experiment-data-HV_Follow_AV_Experiment)
   - [AV Lane Change Experiment Data](https://github.com/CATS-Lab/Filed-experiment-data-AV_Lane_Change_Experiment)
   - [HISTORIC](https://github.com/CATS-Lab/Filed-experiment-data-HISTORIC_data)
