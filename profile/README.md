@@ -47,19 +47,22 @@
   - [Motorcycle Detection](https://github.com/CATS-Lab/AV-development-Motorcycle_Detection)
   - [YOLOv5 ROS](https://github.com/CATS-Lab/AV-development-YOLOv5_ROS)
   - [GPS](https://github.com/CATS-Lab/AV-development-GPS)
-
-
-- [AV Control](https://github.com/JoeyBling/hexo-theme-yilia-plus)
+- DOE
+  - [CRC coder](https://github.com/CATS-Lab/DOE-CRC_coder)
+  - [e sign](https://github.com/CATS-Lab/DOE-e_sign)
+- Robot Control
+  - [robot ws](https://github.com/CATS-Lab/Robot-Control-robot_ws)
+  - [robot cartographer](https://github.com/CATS-Lab/Robot-Control-robot_cartographer)
 - Filed experiment data
-  - [ACC-data](https://github.com/CATS-Lab/CATS-Lab-ACC-data)
-  - [AV-platooning](https://github.com/CATS-Lab/AV-platooning-data)
-  - [AV-energy-consumption data](https://github.com/CATS-Lab/AV-Energy-Consumption)
-  - [HV-follow-AV](https://github.com/CATS-Lab/HV-Follow-AV-Experiment)
-  - [AV-lane-change](https://github.com/CATS-Lab/AV-Lane-Change-Experiment)
-  - [HISTORIC](https://github.com/CATS-Lab/HISTORIC-data)
-- Modular Vehciel
-- CARMA
-- [VECOTR](https://github.com/CATS-Lab/HIGH-Sim)
+  - [ACC data](https://github.com/CATS-Lab/Filed-experiment-data-ACC_data)
+  - [AV platooning data](https://github.com/CATS-Lab/Filed-experiment-data-AV_platooning_data)
+  - [AV energy consumption data](https://github.com/CATS-Lab/Filed-experiment-data-AV_energy_consumption)
+  - [HV follow AV experiment data](https://github.com/CATS-Lab/Filed-experiment-data-HV_Follow_AV_Experiment)
+  - [AV lane change experiment data](https://github.com/CATS-Lab/Filed-experiment-data-AV_Lane_Change_Experiment)
+  - [HISTORIC](https://github.com/CATS-Lab/Filed-experiment-data-HISTORIC_data)
+  - [HIGH Sim](https://github.com/CATS-Lab/Filed-experiment-data-HIGH_Sim)
+- EV charging
+
 
 [![Documentation Status](https://readthedocs.org/projects/cats-lab/badge/?version=latest)](https://cats-lab.readthedocs.io/en/latest/?badge=latest)
 You may also see our introduction on [CATS-lab](https://cats-lab.readthedocs.io/en/latest)
