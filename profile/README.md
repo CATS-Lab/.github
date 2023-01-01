@@ -11,7 +11,7 @@
 </a>
 <b>Follow us!</b>
 <br>
----
+
 <img align="right" alt="pnglogo" width="500px" src="https://github.com/CATS-Lab/.github/blob/main/CATS-Logo-UW%20Red.png" />
 
 - 🌱 Located at University of Wisconsin-Madison
