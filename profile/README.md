@@ -17,7 +17,7 @@
 - 🌱 Located at University of Wisconsin-Madison
 - 🏎️ Houses two full scale connected autonomous vehicles (CAV)
 - 💬 Directed by professor Dr.Xiaopeng (Shaw) Li
-- We share field experiment data 
+- 📈 We share field experiment data 
 - ⭐ You may like [AV installtion guide](https://github.com/CATS-Lab/Connected_Autonomous_Vehicle_Installation) 、[AV platooning data](https://github.com/CATS-Lab/AV-platooning-data) 、or [Comercial ACC analysis data](https://github.com/CATS-Lab/CATS-Lab-ACC-data)
 ### 🛠 Tech Stack
 
