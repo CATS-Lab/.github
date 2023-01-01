@@ -56,9 +56,9 @@
 - EV Charging
 
 
-[![Documentation Status](https://readthedocs.org/projects/cats-lab/badge/?version=latest)](http://cee.eng.usf.edu/faculty/xiaopengli/index.html)
+
 ### 🌐 You may also see our introduction on [CATS-lab](http://cee.eng.usf.edu/faculty/xiaopengli/index.html)
-### Contributors
+### ✍Contributors
 University of Wisconsin Madison
 
 <!--
