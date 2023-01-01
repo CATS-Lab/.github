@@ -42,9 +42,11 @@
 
 ### What's New!
 - Autonomous Vehicle Development
-  - [Autonomous Vehicle Installation](https://github.com/CATS-Lab/AV-development-Connected_Autonomous_Vehicle_Installation)
-    - Sensing
-    - [GPS driver for Autoware](https://github.com/CATS-Lab/GPS)
+  - [Connected Autonomous Vehicle Installation](https://github.com/CATS-Lab/AV-development-Connected_Autonomous_Vehicle_Installation)
+  - [GPS](https://github.com/CATS-Lab/AV-development-GPS))
+
+
+
 - [AV Control](https://github.com/JoeyBling/hexo-theme-yilia-plus)
 - Filed experiment data
   - [ACC-data](https://github.com/CATS-Lab/CATS-Lab-ACC-data)
