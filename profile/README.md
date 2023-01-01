@@ -43,25 +43,25 @@
 ### What's New!
 - Autonomous Vehicle Development
   - [Connected Autonomous Vehicle Installation](https://github.com/CATS-Lab/AV-development-Connected_Autonomous_Vehicle_Installation)
-  - [Autoware source code](https://github.com/CATS-Lab/AV-development-Autoware_source_code)
+  - [Autoware Source Code](https://github.com/CATS-Lab/AV-development-Autoware_source_code)
   - [Motorcycle Detection](https://github.com/CATS-Lab/AV-development-Motorcycle_Detection)
   - [YOLOv5 ROS](https://github.com/CATS-Lab/AV-development-YOLOv5_ROS)
   - [GPS](https://github.com/CATS-Lab/AV-development-GPS)
 - DOE
-  - [CRC coder](https://github.com/CATS-Lab/DOE-CRC_coder)
-  - [e sign](https://github.com/CATS-Lab/DOE-e_sign)
+  - [CRC Coder](https://github.com/CATS-Lab/DOE-CRC_coder)
+  - [E Sign](https://github.com/CATS-Lab/DOE-e_sign)
 - Robot Control
-  - [robot ws](https://github.com/CATS-Lab/Robot-Control-robot_ws)
-  - [robot cartographer](https://github.com/CATS-Lab/Robot-Control-robot_cartographer)
-- Filed experiment data
-  - [ACC data](https://github.com/CATS-Lab/Filed-experiment-data-ACC_data)
-  - [AV platooning data](https://github.com/CATS-Lab/Filed-experiment-data-AV_platooning_data)
-  - [AV energy consumption data](https://github.com/CATS-Lab/Filed-experiment-data-AV_energy_consumption)
-  - [HV follow AV experiment data](https://github.com/CATS-Lab/Filed-experiment-data-HV_Follow_AV_Experiment)
-  - [AV lane change experiment data](https://github.com/CATS-Lab/Filed-experiment-data-AV_Lane_Change_Experiment)
+  - [Robot WS](https://github.com/CATS-Lab/Robot-Control-robot_ws)
+  - [Robot Cartographer](https://github.com/CATS-Lab/Robot-Control-robot_cartographer)
+- Filed Experiment Data
+  - [ACC Data](https://github.com/CATS-Lab/Filed-experiment-data-ACC_data)
+  - [AV Platooning data](https://github.com/CATS-Lab/Filed-experiment-data-AV_platooning_data)
+  - [AV Energy Consumption data](https://github.com/CATS-Lab/Filed-experiment-data-AV_energy_consumption)
+  - [HV Follow AV Experiment Data](https://github.com/CATS-Lab/Filed-experiment-data-HV_Follow_AV_Experiment)
+  - [AV Lane Change Experiment Data](https://github.com/CATS-Lab/Filed-experiment-data-AV_Lane_Change_Experiment)
   - [HISTORIC](https://github.com/CATS-Lab/Filed-experiment-data-HISTORIC_data)
   - [HIGH Sim](https://github.com/CATS-Lab/Filed-experiment-data-HIGH_Sim)
-- EV charging
+- EV Charging
 
 
 [![Documentation Status](https://readthedocs.org/projects/cats-lab/badge/?version=latest)](https://cats-lab.readthedocs.io/en/latest/?badge=latest)
