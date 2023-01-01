@@ -59,7 +59,7 @@
 
 ### 🌐 You may also see our introduction on [CATS-lab](http://cee.eng.usf.edu/faculty/xiaopengli/index.html)
 ### ✍Contributors
-University of Wisconsin Madison
+   University of Wisconsin Madison
 
 <!--
 
