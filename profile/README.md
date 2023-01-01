@@ -43,8 +43,10 @@
 ### What's New!
 - Autonomous Vehicle Development
   - [Connected Autonomous Vehicle Installation](https://github.com/CATS-Lab/AV-development-Connected_Autonomous_Vehicle_Installation)
-  - [GPS](https://github.com/CATS-Lab/AV-development-GPS))
-
+  - [Autoware source code](https://github.com/CATS-Lab/AV-development-Autoware_source_code)
+  - [Motorcycle Detection](https://github.com/CATS-Lab/AV-development-Motorcycle_Detection)
+  - [YOLOv5 ROS](https://github.com/CATS-Lab/AV-development-YOLOv5_ROS)
+  - [GPS](https://github.com/CATS-Lab/AV-development-GPS)
 
 
 - [AV Control](https://github.com/JoeyBling/hexo-theme-yilia-plus)
