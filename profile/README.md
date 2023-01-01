@@ -14,7 +14,7 @@
 
 <img align="right" alt="pnglogo" width="500px" src="https://github.com/CATS-Lab/.github/blob/main/CATS-Logo-UW%20Red.png" />
 
-- 🌱 Located at University of Wisconsin-Madison
+- 🏢 Located at University of Wisconsin-Madison
 - 🏎️ Houses two full scale connected autonomous vehicles (CAV)
 - 💬 Directed by professor Dr.Xiaopeng (Shaw) Li
 - 📈 We share field experiment data 
