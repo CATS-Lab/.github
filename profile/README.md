@@ -57,7 +57,7 @@
 
 
 [![Documentation Status](https://readthedocs.org/projects/cats-lab/badge/?version=latest)](https://cats-lab.readthedocs.io/en/latest/?badge=latest)
-You may also see our introduction on [CATS-lab](https://cats-lab.readthedocs.io/en/latest)
+You may also see our introduction on [CATS-lab](http://cee.eng.usf.edu/faculty/xiaopengli/index.html)
 ### Contributors
 University of Wisconsin Madison
 
