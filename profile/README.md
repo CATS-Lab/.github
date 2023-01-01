@@ -32,7 +32,7 @@
 ![ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![VScode](https://img.shields.io/badge/-vscode-333333?style=flat&logo=VisualStudioCode&logoColor=#007ACC)
 
-### What's New!
+### 💡What's New!
 - Autonomous Vehicle Development
   - [Connected Autonomous Vehicle Installation](https://github.com/CATS-Lab/AV-development-Connected_Autonomous_Vehicle_Installation)
   - [Autoware Source Code](https://github.com/CATS-Lab/AV-development-Autoware_source_code)
