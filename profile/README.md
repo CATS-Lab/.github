@@ -57,7 +57,7 @@
 
 
 
-### 🌐 You may also see our introduction on [CATS-lab](http://cee.eng.usf.edu/faculty/xiaopengli/index.html)
+### 🌐 You may also see our introduction on [CATS-lab](https://catslab.wiscweb.wisc.edu/)
 ### ✍Contributors
 - University of Wisconsin-Madison
 
