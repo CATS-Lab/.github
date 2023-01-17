@@ -54,7 +54,7 @@
   - [HISTORIC](https://github.com/CATS-Lab/Filed-experiment-data-HISTORIC_data)
   - [HIGH Sim](https://github.com/CATS-Lab/Filed-experiment-data-HIGH_Sim)
 - EV Charging
-  - [Optimal Scheduling, Routing and Charging for Electric Vehicles Evacuation:Webtool](https://github.com/CATS-Lab/EV-Charging_Optimal_Scheduling_Routing_and_Charging_for_Electric_Vehicles_Evacuation_Webtool)
+  - [Optimal Scheduling, Routing and Charging for Electric Vehicles Evacuation: Webtool](https://github.com/CATS-Lab/EV-Charging_Optimal_Scheduling_Routing_and_Charging_for_Electric_Vehicles_Evacuation_Webtool)
 
 ### 🌐 You may also see our introduction on [CATS-lab](https://catslab.wiscweb.wisc.edu/)
 ### ✍Contributors
