@@ -41,7 +41,7 @@
   - [YOLOv5 ROS](https://github.com/CATS-Lab/AV-development-YOLOv5_ROS)
   - [GPS](https://github.com/CATS-Lab/AV-development-GPS)
 - DOE
-  - [CRC Coder](https://github.com/CATS-Lab/DOE-CRC_coder)
+  - [Communication by binary code](https://github.com/CATS-Lab/DOE-Communication_by_binary_code)
   - [E Sign](https://github.com/CATS-Lab/DOE-e_sign)
 - Robot Control
   - [Robot WS](https://github.com/CATS-Lab/Robot-Control-robot_ws)
