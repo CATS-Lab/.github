@@ -35,6 +35,7 @@
 ### 💡Projects
 - Autonomous Vehicle Development
   - [Connected Autonomous Vehicle Installation](https://github.com/CATS-Lab/AV-development-Connected_Autonomous_Vehicle_Installation)
+  - [Generative Adversarial Control model for AV Test](https://github.com/CATS-Lab/AV-Development-Generative_Adversarial_Control_model_for_AV_Test)
   - [Autoware Source Code](https://github.com/CATS-Lab/AV-development-Autoware_source_code)
   - [Motorcycle Detection](https://github.com/CATS-Lab/AV-development-Motorcycle_Detection)
   - [YOLOv5 ROS](https://github.com/CATS-Lab/AV-development-YOLOv5_ROS)
