@@ -33,6 +33,14 @@
 ![VScode](https://img.shields.io/badge/-vscode-333333?style=flat&logo=VisualStudioCode&logoColor=#007ACC)
 
 ### 💡Projects
+- CATS Perception
+  - [E Sign](https://github.com/CATS-Lab/DOE-e_sign)
+- CATS Communacation
+  - [Communication by binary code](https://github.com/CATS-Lab/DOE-Communication_by_binary_code)
+- CATS Intelligent Control
+  - [Robot WS](https://github.com/CATS-Lab/Robot-Control-robot_ws)
+- CATS Data Process
+  - [GPS](https://github.com/CATS-Lab/AV-development-GPS)
 - Autonomous Vehicle Development
   - [Connected Autonomous Vehicle Installation](https://github.com/CATS-Lab/AV-development-Connected_Autonomous_Vehicle_Installation)
   - [Generative Adversarial Control model for AV Test](https://github.com/CATS-Lab/AV-Development-Generative_Adversarial_Control_model_for_AV_Test)
@@ -40,9 +48,10 @@
   - [Motorcycle Detection](https://github.com/CATS-Lab/AV-development-Motorcycle_Detection)
   - [YOLOv5 ROS](https://github.com/CATS-Lab/AV-development-YOLOv5_ROS)
   - [GPS](https://github.com/CATS-Lab/AV-development-GPS)
-- DOE
+- DOE_Vector
   - [Communication by binary code](https://github.com/CATS-Lab/DOE-Communication_by_binary_code)
   - [E Sign](https://github.com/CATS-Lab/DOE-e_sign)
+  - [Low-cost Communication](https://github.com/CATS-Lab/DOE_VECTOR_Communication)
 - Robot Control
   - [Robot WS](https://github.com/CATS-Lab/Robot-Control-robot_ws)
   - [Robot Cartographer](https://github.com/CATS-Lab/Robot-Control-robot_cartographer)
